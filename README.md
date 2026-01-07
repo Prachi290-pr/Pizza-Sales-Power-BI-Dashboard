@@ -5,10 +5,10 @@ This project presents an interactive Power BI sales analysis focused on revenue 
 
 ## Dashboards Included
 - Yearly Sales Report: Revenue trends, order behavior, and category/size performance
-- ![Home Page](Pizza Sales Report Home Page.png)
+![Home Page](Pizza Sales Report Home Page.png)
   
 - Best & Worst Sellers Report: Top and bottom pizzas by revenue, quantity sold, and total orders
-- ![Best & Worst Sellers](Pizza Sales Report Best & Worst Sellers.png)
+![Best & Worst Sellers](Pizza Sales Report Best & Worst Sellers.png)
 
 ## Key Metrics
 - Total Revenue  
