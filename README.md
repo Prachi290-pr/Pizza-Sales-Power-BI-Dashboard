@@ -1,4 +1,4 @@
-# Pizza Sales Analysis – Power BI
+# Pizza Sales Analysis Dashboard – Power BI
 
 ## Project Overview
 This project presents an interactive Power BI sales analysis focused on revenue performance, order trends, and product-level insights. The dashboards transform raw sales data into clear, business-driven visuals to support data-informed decision-making.
